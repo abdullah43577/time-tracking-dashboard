@@ -93,6 +93,8 @@ div.second_sect > p:hover {
 div.nameCont > h2 {
   font-size: 30px;
   letter-spacing: 1px;
+  font-weight: lighter;
+  padding-top: 10px;
 }
 
 main > :nth-child(2) {
@@ -145,7 +147,7 @@ main > :nth-child(7) {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  font-weight: bold;
+  font-weight: 500;
 }
 
 .ellipsis_sect > img {

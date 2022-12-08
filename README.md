@@ -25,12 +25,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](<./design/Screenshot%20(23).png>)
+![](<./design/Screenshot%20(24).png>)
 
 ### Links
 
-- Solution URL: [Solution URL here](https://your-solution-url.com)
-- Live Site URL: [Live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/time-tracking-dashboard-e_IOYNbyxg)
+- Live Site URL: [Live site URL here](https://time-tracker-dash.netlify.app/)
 
 ## My process
 
@@ -45,7 +46,7 @@ Users should be able to:
 
 ### Continued development
 
-I'll keep trying to get better in web programming as a whole. While taking this project I discovered I have to learn about using JSON Data in javascript which I found very helpful building my past few projects.
+I'll keep trying to get better at web programming as a whole. While taking this project I discovered I have to learn about using JSON Data in javascript which I found very helpful building my past few projects.
 
 ## Author
 
